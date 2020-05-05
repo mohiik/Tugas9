@@ -1,0 +1,36 @@
+body { 
+	background-color: skyblue; 
+	font-family: cambria;
+	margin: 0px;
+}
+div {
+	display: inline-block;
+	position: relative;
+	left: 20px;
+	bottom: 20px;
+	line-height: 1.5;
+}
+.tabel {
+	padding-top: 10px;
+	border-top-width: 3px;
+	border-top-style: solid;
+	border-color: black;
+}
+
+.profildiri {
+	background-color: lightgreen;
+	font-family: consolas, verdana, sans serif;
+	color: orangered;
+}
+
+.hubungisaya {
+	background-color: violet;
+	font-family: comic sans ms, verdana, sans serif;
+	color: maroon;
+}
+
+#menu {
+	background-color: lightseagreen;
+	font-family: century, verdana, sans serif;
+	color: gold;
+}
